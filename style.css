@@ -1,0 +1,42 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 450px;
+  overflow: auto;
+}
+
+h1, h2	{
+	font-family: 'Questrial', sans-serif;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+td {
+	vertical-align: middle !important;
+
+}
+
+.row {
+	padding: 10px !important;
+}
+
+p {
+	padding-top: 6px !important;
+	font-size: 15px !important;
+}
+
+.jumbotron {
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+textarea {
+	min-width: 434px;
+	min-height: 70px;
+	max-width: 434px;
+	max-height: 70px;
+}
