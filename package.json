@@ -13,6 +13,5 @@
   },
   "devDependencies": {
     "should": "^7.1.1"
-  },
-  "repository": "npm/npm"
+  }
 }

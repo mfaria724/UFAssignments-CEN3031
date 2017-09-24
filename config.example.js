@@ -4,7 +4,7 @@
 
 module.exports = {
   db: {
-    uri: 'mongodb://mfaria724:ManuelF_01@ds135394.mlab.com:35394/assignment3', //place the URI of your mongo database here.
+    uri: '', //place the URI of your mongo database here.
   }
 };
 
